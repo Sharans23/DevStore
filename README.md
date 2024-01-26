@@ -1,1 +1,2 @@
-# DevStore
+# DevStore 
+E-commerce website
